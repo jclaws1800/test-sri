@@ -4,4 +4,9 @@ Test repo for SRI
 
 blaaksdiajdasd
 
+Use the command:
 
+...
+
+$ vagrant up
+...
